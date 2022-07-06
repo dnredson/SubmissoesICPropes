@@ -1,0 +1,10 @@
+.pkp_structure_head{
+
+color: black;
+}
+.pkp_structure_footer_wrapper{
+background-color: #006633	
+}
+.pkp_footer_content::after{
+  content: url('http://177.104.62.12/templates/images/ojs_brand_white.png;');
+}
